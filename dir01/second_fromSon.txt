@@ -1,0 +1,1 @@
+Ok, I'm the son, I wanna write the second.txt to test 'merge'
